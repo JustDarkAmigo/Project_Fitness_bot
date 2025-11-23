@@ -70,5 +70,4 @@ def plot_training_completion(data):
 
 filename = "users_data_10000_with_levels.json"
 data = load_data_from_json(filename)
-print(f"Успешно загружено {len(data)} записей из файла {filename}")
 plot_training_completion(data)
