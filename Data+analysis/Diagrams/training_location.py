@@ -42,6 +42,7 @@ def plot_training_location(data):
     print(f"Тренируются в зале: {gym_count}")
 
 
-filename = "users_data_10000_with_levels.json"
+filename = "users_data.json"
 data = load_data_from_json(filename)
 plot_training_location(data)
+
