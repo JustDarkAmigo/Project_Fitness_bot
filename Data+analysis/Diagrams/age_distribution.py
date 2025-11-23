@@ -50,6 +50,7 @@ def plot_age_distribution(data):
           f"медиана = {np.median(ages_without_trainer):.1f} лет")
 
 
-filename = "users_data_10000_with_levels.json"
+filename = "users_data.json"
 data = load_data_from_json(filename)
 plot_age_distribution(data)
+
