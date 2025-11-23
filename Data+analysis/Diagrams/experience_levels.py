@@ -40,6 +40,7 @@ def plot_experience_levels(data):
     print(f"Больше всего пользователей: '{max_category}' - {max_count} человек ({percentage}%)")
     plt.show()
 
-filename = "users_data_10000_with_levels.json"
+filename = "users_data.json"
 data = load_data_from_json(filename)
 plot_experience_levels(data)
+
