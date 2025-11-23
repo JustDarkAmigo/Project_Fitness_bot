@@ -68,6 +68,7 @@ def plot_training_completion(data):
     print(f"Среднее количество тренировок без тренера: {np.mean(without_trainer):.2f}")
 
 
-filename = "users_data_10000_with_levels.json"
+filename = "users_data.json"
 data = load_data_from_json(filename)
 plot_training_completion(data)
+
