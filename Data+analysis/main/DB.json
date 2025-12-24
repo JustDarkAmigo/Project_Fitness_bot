@@ -1,0 +1,668 @@
+[
+  {
+    "name": "Приседания с собственным весом",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": []
+  },
+  {
+    "name": "Бег на дорожке",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["беговая дорожка"]
+  },
+  {
+    "name": "Жим штанги лёжа",
+    "difficulty": "intermediate",
+    "type": "powerlifting",
+    "equipments": ["штанга", "скамья"]
+  },
+  {
+    "name": "Становая тяга",
+    "difficulty": "expert",
+    "type": "powerlifting",
+    "equipments": ["штанга", "блины"]
+  },
+  {
+    "name": "Подтягивания",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["турник"]
+  },
+  {
+    "name": "Скакалка",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["скакалка"]
+  },
+  {
+    "name": "Приседания со штангой",
+    "difficulty": "intermediate",
+    "type": "powerlifting",
+    "equipments": ["штанга", "стойка"]
+  },
+  {
+    "name": "Отжимания от пола",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": []
+  },
+  {
+    "name": "Велотренажёр",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["велотренажёр"]
+  },
+  {
+    "name": "Армейский жим",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга", "стойка"]
+  },
+  {
+    "name": "Гребной тренажёр",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["гребной тренажёр"]
+  },
+  {
+    "name": "Румынская тяга",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга", "гантели"]
+  },
+  {
+    "name": "Берпи",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Жим гантелей сидя",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели", "скамья"]
+  },
+  {
+    "name": "Прыжки на бокс",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["платформа"]
+  },
+  {
+    "name": "Тяга штанги в наклоне",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга"]
+  },
+  {
+    "name": "Спринты",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Фронтальные приседания",
+    "difficulty": "expert",
+    "type": "powerlifting",
+    "equipments": ["штанга", "стойка"]
+  },
+  {
+    "name": "Планка",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["коврик"]
+  },
+  {
+    "name": "Эллиптический тренажёр",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["эллипсоид"]
+  },
+  {
+    "name": "Подъём штанги на бицепс",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["штанга"]
+  },
+  {
+    "name": "Бег на улице",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Жим ногами",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["тренажёр для жима ногами"]
+  },
+  {
+    "name": "Скалолазание",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["скалодром"]
+  },
+  {
+    "name": "Тяга верхнего блока",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["блочный тренажёр"]
+  },
+  {
+    "name": "Плавание",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["бассейн"]
+  },
+  {
+    "name": "Выпады с гантелями",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Бёрпи с подтягиванием",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["турник"]
+  },
+  {
+    "name": "Фермерская прогулка",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантели", "гири"]
+  },
+  {
+    "name": "Степ-аэробика",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["степ-платформа"]
+  },
+  {
+    "name": "Разводка гантелей лёжа",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантели", "скамья"]
+  },
+  {
+    "name": "Прыжки в длину",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Шраги со штангой",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["штанга"]
+  },
+  {
+    "name": "Бой с тенью",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Сгибание ног лёжа",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр для сгибания ног"]
+  },
+  {
+    "name": "Интервальный бег",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["пульсометр", "беговая дорожка"]
+  },
+  {
+    "name": "Пуловер с гантелью",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантель", "скамья"]
+  },
+  {
+    "name": "Скакалка двойные прыжки",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["скакалка"]
+  },
+  {
+    "name": "Подъём на носки стоя",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр для икр", "гантели"]
+  },
+  {
+    "name": "Ходьба в гору",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["беговая дорожка"]
+  },
+  {
+    "name": "Жим Арнольда",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантели", "скамья"]
+  },
+  {
+    "name": "Бег по лестнице",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["лестница"]
+  },
+  {
+    "name": "Тяга гири к подбородку",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гиря"]
+  },
+  {
+    "name": "Прыжки через барьеры",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["барьеры"]
+  },
+  {
+    "name": "Ягодичный мостик",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["коврик"]
+  },
+  {
+    "name": "Кроссфит WOD",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["штанга", "гантели", "турник"]
+  },
+  {
+    "name": "Разгибание рук на блоке",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["блочный тренажёр"]
+  },
+  {
+    "name": "Сайклинг",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["велотренажёр"]
+  },
+  {
+    "name": "Подъём ног в висе",
+    "difficulty": "expert",
+    "type": "strength",
+    "equipments": ["турник"]
+  },
+  {
+    "name": "Скручивания на пресс",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["коврик"]
+  },
+  {
+    "name": "Тяга нижнего блока",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["блочный тренажёр"]
+  },
+  {
+    "name": "Функциональный тренинг",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["медицинский мяч", "канат"]
+  },
+  {
+    "name": "Жим штанги с наклоном",
+    "difficulty": "intermediate",
+    "type": "powerlifting",
+    "equipments": ["штанга", "наклонная скамья"]
+  },
+  {
+    "name": "Бокс с грушей",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["боксёрская груша", "перчатки"]
+  },
+  {
+    "name": "Сведение рук в тренажёре",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр бабочка"]
+  },
+  {
+    "name": "Спринтерские повторы",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Гиперэкстензия",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр для гиперэкстензии"]
+  },
+  {
+    "name": "Канаты",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["канаты"]
+  },
+  {
+    "name": "Подъём штанги на грудь",
+    "difficulty": "expert",
+    "type": "powerlifting",
+    "equipments": ["штанга"]
+  },
+  {
+    "name": "Тяга гантели одной рукой",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантель", "скамья"]
+  },
+  {
+    "name": "Плиометрические отжимания",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Махи гирей",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гиря"]
+  },
+  {
+    "name": "Лыжный тренажёр",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["лыжный тренажёр"]
+  },
+  {
+    "name": "Приседания с гирей",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гиря"]
+  },
+  {
+    "name": "Табата",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["таймер"]
+  },
+  {
+    "name": "Отжимания на брусьях",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["брусья"]
+  },
+  {
+    "name": "Ходьба с утяжелителями",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["утяжелители"]
+  },
+  {
+    "name": "Скручивания с весом",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["блин", "коврик"]
+  },
+  {
+    "name": "Прыжки на скамью",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["скамья"]
+  },
+  {
+    "name": "Тяга Т-грифа",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["Т-гриф", "станок"]
+  },
+  {
+    "name": "Восхождения на тумбу",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["тумба"]
+  },
+  {
+    "name": "Французский жим лёжа",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга", "скамья"]
+  },
+  {
+    "name": "Степпер",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["степпер"]
+  },
+  {
+    "name": "Подъём гантелей на бицепс",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Бег с высоким подниманием бедра",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Разгибание спины",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гиперэкстензия"]
+  },
+  {
+    "name": "Орбитрек с интервалами",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["эллипсоид", "пульсометр"]
+  },
+  {
+    "name": "Сизифовы приседания",
+    "difficulty": "expert",
+    "type": "strength",
+    "equipments": ["штанга", "опора"]
+  },
+  {
+    "name": "Прогулка фермера с гирями",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["гири"]
+  },
+  {
+    "name": "Жим гантелей лёжа",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели", "скамья"]
+  },
+  {
+    "name": "Прыжки в воду",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["бассейн"]
+  },
+  {
+    "name": "Тяга штанги к подбородку",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга"]
+  },
+  {
+    "name": "Круговая тренировка",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["разное оборудование"]
+  },
+  {
+    "name": "Сгибание рук на скамье Скотта",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["штанга", "скамья Скотта"]
+  },
+  {
+    "name": "Бег с парашютом",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["парашют"]
+  },
+  {
+    "name": "Подъём ног лёжа",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["коврик"]
+  },
+  {
+    "name": "Тяга в хаммере",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["тренажёр хаммер"]
+  },
+  {
+    "name": "Плавание с ластами",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": ["бассейн", "ласты"]
+  },
+  {
+    "name": "Разводка гантелей стоя",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Кардио-бокс",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["боксёрская груша", "скакалка"]
+  },
+  {
+    "name": "Приседания в ножницы",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Толкание саней",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["сани", "утяжелители"]
+  },
+  {
+    "name": "Шраги с гантелями",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Аквааэробика",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["бассейн"]
+  },
+  {
+    "name": "Разгибание ног сидя",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр для разгибания ног"]
+  },
+  {
+    "name": "Бег по песку",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Жим штанги стоя",
+    "difficulty": "intermediate",
+    "type": "powerlifting",
+    "equipments": ["штанга", "стойка"]
+  },
+  {
+    "name": "Прыжки на батуте",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["батут"]
+  },
+  {
+    "name": "Сгибание рук с гантелями",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["гантели"]
+  },
+  {
+    "name": "Тренировка на гребном слайдере",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["гребной слайдер"]
+  },
+  {
+    "name": "Отжимания от скамьи",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["скамья"]
+  },
+  {
+    "name": "Велосипедный спринт",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["велотренажёр"]
+  },
+  {
+    "name": "Болгарские выпады",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гантели", "скамья"]
+  },
+  {
+    "name": "Прыжки с разведением рук и ног",
+    "difficulty": "intermediate",
+    "type": "cardio",
+    "equipments": []
+  },
+  {
+    "name": "Тяга гири одной рукой",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["гиря"]
+  },
+  {
+    "name": "Ходьба по беговой с уклоном",
+    "difficulty": "beginner",
+    "type": "cardio",
+    "equipments": ["беговая дорожка"]
+  },
+  {
+    "name": "Подъём туловища на римском стуле",
+    "difficulty": "intermediate",
+    "type": "strength",
+    "equipments": ["римский стул"]
+  },
+  {
+    "name": "Кросс-тренинг",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["разное оборудование"]
+  },
+  {
+    "name": "Жим в тренажёре Смита",
+    "difficulty": "beginner",
+    "type": "strength",
+    "equipments": ["тренажёр Смита"]
+  },
+  {
+    "name": "Спринтерский велотренажёр",
+    "difficulty": "expert",
+    "type": "cardio",
+    "equipments": ["велотренажёр"]
+  },
+  {
+    "name": "Подъём гири над головой",
+    "difficulty": "expert",
+    "type": "strength",
+    "equipments": ["гиря"]
+  }
+]
