@@ -1,3 +1,4 @@
+# TOKEN = '8322844383:AAEyKzAuHmNMA8SgVYe3l2EKPKnbXgHSxW8'
 import json
 import os
 import random
@@ -14,7 +15,7 @@ from telegram.ext import ConversationHandler
 from telegram.ext import MessageHandler
 from telegram.ext import filters
 
-TOKEN = ""
+TOKEN = "8322844383:AAEyKzAuHmNMA8SgVYe3l2EKPKnbXgHSxW8"
 
 USER_FILE = "users.json"
 EXERCISE_FILE = "DB.json"
@@ -168,7 +169,11 @@ async def start_test(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     await update.message.reply_text(
-        f"Вопрос 1/3: \nКакой твой уровень подготовки? \n\nВыбери один вариант ответа.",
+        f"Вопрос 1/3: \nКакой твой уровень подготовки? \n\n"
+        f"    Любитель - занимается нерегулярно, либо никак. Опыт до 6 месяцев. Знание базовых движений\n"
+        f"    Продвинутый - регулярно занимается. Опыт от 6 месяцев до 4 лет. Уверенное владение разнообразными упражнениями, опыт в секциях.\n"
+        f"    Профессионал - регулярно занимается. Опыт от 4 лет. Знание БЖУ, все выше перечисленное."
+        f"\n\nВыбери один вариант ответа.",
         reply_markup=markup
     )
     return LEVEL
@@ -192,7 +197,11 @@ async def set_difficulty(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     await update.message.reply_text(
-        f"Вопрос 2/3: Сколько дней в неделю предпочтешь заниматься? \n\n выбери один вариант ответа.",
+        f"Вопрос 2/3: Сколько дней в неделю предпочтешь заниматься? \n\n"
+        f"    2 - Рекомендовано для любителя, либо для тех, кто хочет только сохранить форму.\n"
+        f"    3 - Идеальный вариант для всех категорий.\n"
+        f"    4 - Рекомендовано для Профессионалов, либо тех, кто уже так занимался хотя бы месяц.\n"
+        f"\n\n выбери один вариант ответа.",
         reply_markup=markup
     )
     return DAYS
@@ -216,7 +225,11 @@ async def set_days(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
 
     await update.message.reply_text(
-        f"Вопрос 3/3: Какой тип тренировок тебе подходит? \n\nВыбери один вариант ответа.",
+        f"Вопрос 3/3: Какой тип тренировок тебе подходит? \n\n"
+        f"    Кардиотренировка - направлена на жиросжигание и повышение выносливости.\n"
+        f"    Пауэрлифтинг - направлен на поднятие больших весов и правильное выполнение техник. (штанга, скамья обязательны!)\n"
+        f"    Сила - направлена на повышение мышечной массы и на поддержание мышечного тонуса.\n"
+        f"\n\nВыбери один вариант ответа.",
         reply_markup=markup
     )
     return GOAL
