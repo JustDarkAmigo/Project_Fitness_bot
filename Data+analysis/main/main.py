@@ -1,4 +1,3 @@
-# TOKEN = '8322844383:AAEyKzAuHmNMA8SgVYe3l2EKPKnbXgHSxW8'
 import json
 import os
 import random
@@ -15,7 +14,7 @@ from telegram.ext import ConversationHandler
 from telegram.ext import MessageHandler
 from telegram.ext import filters
 
-TOKEN = "8322844383:AAEyKzAuHmNMA8SgVYe3l2EKPKnbXgHSxW8"
+TOKEN = ""
 
 USER_FILE = "users.json"
 EXERCISE_FILE = "DB.json"
@@ -445,3 +444,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
